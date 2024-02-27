@@ -45,7 +45,7 @@ body {
 
 .hero {
     padding: 5% 0;
-    background-image: url(/img/bg.png)
+    background-image: url(../img/bg.png)
 }
 
 .hero-content h2 {
